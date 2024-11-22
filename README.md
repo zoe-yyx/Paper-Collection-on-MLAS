@@ -14,7 +14,7 @@ As the next evolution, Multi-LLM-Agent Systems (MLAS) enable multiple LLM agents
 - Data Privacy: Participating entities retain control over proprietary data, fostering trust.
 - Monetization Opportunities: Individual agents or systems can monetize their specialized contributions.
 
-This repository serves as a curated collection of significant papers and resources on MLAS, covering its technical foundations, practical implementations, and business potential. Dive in to explore the latest advancements in this exciting field! 🚀
+This repository compiles research papers and resources exploring the technical foundations, practical implementations, and business potential of MLAS. Dive in to explore the latest advancements in this exciting field! 🚀
 
 ---
 
@@ -51,25 +51,91 @@ Key Contributions:
 
 ## 🗂 Categories
 
-Organize papers into clear categories. Here's an example:
+### 🏗️ System Architecture & Frameworks
+1. **Agentverse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents**  
+   *Weize Chen et al.* - arXiv (2023)  
+   [Link](https://arxiv.org/abs/2308.10848)  
+   Summary: Introduces architectures for multi-agent collaboration and explores emergent behaviors in LLM agents.
 
-### 🧠 Category 1: [Specific Subfield or Focus Area]
+2. **Autogen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**  
+   *Qingyun Wu et al.* - arXiv (2023)  
+   [Link](https://arxiv.org/abs/2308.08155)  
+   Summary: Proposes a framework for multi-agent conversational systems to enable complex task orchestration.
 
-1. **[Paper Title](link-to-paper)**  
-   *Author(s)* - *Conference/Journal (Year)*  
-   Summary: [Brief description or key contributions of the paper.]
+3. **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**  
+   *Sirui Hong et al.* - ICLR (2024)  
+   [Link](https://openreview.net/forum?id=VtmBAGCN7o)  
+   Summary: A novel framework leveraging meta-programming for agent collaboration.
 
-2. **[Paper Title](link-to-paper)**  
-   *Author(s)* - *Conference/Journal (Year)*  
-   Summary: [Brief description or key contributions of the paper.]
+4. **GPTSwarm: Language Agents as Optimizable Graphs**  
+   *Mingchen Zhuge et al.* - ICML (n.d.)  
+   [Link](https://arxiv.org/abs/2410.11905)  
+   Summary: Explores graph-based architectures to optimize multi-agent collaborations.
 
-### 📊 Category 2: [Another Subfield or Area]
+---
 
-1. **[Paper Title](link-to-paper)**  
-   *Author(s)* - *Conference/Journal (Year)*  
-   Summary: [Brief description or key contributions of the paper.]
+### 🤝 Agent Collaboration & Communication
+1. **Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**  
+   *Weize Chen et al.* - arXiv (2024)  
+   [Link](https://arxiv.org/abs/2407.07061)  
+   Summary: Describes how heterogeneous agents collaborate dynamically in real-world environments.
 
-...add more categories and papers as needed.
+2. **AgentScope: A Flexible yet Robust Multi-Agent Platform**  
+   *Dawei Gao et al.* - arXiv (2024)  
+   [Link](https://arxiv.org/abs/2402.14034)  
+   Summary: Discusses a platform enabling scalable and robust multi-agent collaboration with flexible interaction protocols.
+
+3. **ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate**  
+   *Chi-Min Chan et al.* - arXiv (2023)  
+   [Link](https://arxiv.org/abs/2308.07201)  
+   Summary: Proposes multi-agent debate as a method for evaluating LLM systems.
+
+4. **OpenAgents: An Open Platform for Language Agents in the Wild**  
+   *Tianbao Xie et al.* - arXiv (2023)  
+   [Link](https://arxiv.org/abs/2310.10634)  
+   Summary: A platform that supports flexible deployment of language agents for real-world tasks.
+
+---
+
+### 🔒 Privacy & Security
+1. **Prompt Injection Attack Against LLM-Integrated Applications**  
+   *Yi Liu et al.* - arXiv (2023)  
+   [Link](https://arxiv.org/abs/2306.05499)  
+   Summary: Examines vulnerabilities in LLM-based systems, focusing on prompt injection attacks and mitigation strategies.
+
+2. **BadRAG: Identifying Vulnerabilities in Retrieval-Augmented Generation of Large Language Models**  
+   *Jiaqi Xue et al.* - arXiv (2024)  
+   [Link](https://arxiv.org/abs/2406.00083)  
+   Summary: Investigates cascading errors caused by compromised knowledge bases in MLAS systems.
+
+3. **Defending Against Indirect Prompt Injection Attacks With Spotlighting**  
+   *Keegan Hines et al.* - arXiv (2024)  
+   [Link](https://arxiv.org/abs/2403.14720)  
+   Summary: Proposes novel strategies to defend against prompt injection attacks in MLAS.
+
+---
+
+### 💡 Applications & Use Cases
+1. **Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks**  
+   *Adam Fourney et al.* - arXiv (2024)  
+   [Link](https://arxiv.org/abs/2411.04468)  
+   Summary: Presents a multi-agent framework for handling diverse and complex AI-driven tasks.
+
+2. **SciAgents: Automating Scientific Discovery through Multi-Agent Intelligent Graph Reasoning**  
+   *Alireza Ghafarollahi et al.* - arXiv (2024)  
+   [Link](https://arxiv.org/abs/2409.05556)  
+   Summary: Uses multi-agent systems for graph-based scientific discovery and reasoning.
+
+3. **MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making**  
+   *Dayuan Fu et al.* - arXiv (2024)  
+   [Link](https://arxiv.org/abs/2409.16686)  
+   Summary: Discusses how multi-scale insights enhance decision-making in multi-agent systems.
+
+4. **Agent-Oriented Planning in Multi-Agent Systems**  
+   *Ao Li et al.* - arXiv (2024)  
+   [Link](https://arxiv.org/abs/2410.02189)  
+   Summary: Focuses on planning techniques to enhance multi-agent collaboration.
+
 
 ---
 
