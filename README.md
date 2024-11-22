@@ -5,22 +5,26 @@ Welcome to the paper collection repository on **multi-LLM-agent system (MLAS)**!
 
 ---
 
-## 🎯 Objective
+## 🎯 Featured Paper
 
-The goal of this repository is to:
+**Multi-LLM-Agent Systems: Techniques and Business Perspectives**
+*Yingxuan Yang, Qiuying Peng, Jun Wang, Weinan Zhang*
+[arXiv:(https://arxiv.org/abs/2411.14033)]
 
-- Provide a centralized source of knowledge for researchers, students, and professionals.
-- Highlight influential and emerging works in the field.
-- Encourage collaboration and contributions from the community.
-
+Key Contributions:
+1.  Provides a systematic overview of MLAS architectures and mechanisms
+2.  Analyzes security challenges and defense strategies
+3.  Explores business models and monetization approaches
+4.  Presents practical case studies of MLAS implementations
+   
 ---
 
 ## 📂 Table of Contents
 
 1. [Introduction](#introduction)
 2. [Categories](#categories)
-    - [Category 1](#category-1)
-    - [Category 2](#category-2)
+    - [Category 1](#🏗️ System Architecture & Frameworks)
+    - [Category 2](#🤝 Agent Collaboration & Communication)
 3. [Contributing](#contributing)
 4. [References](#references)
 
