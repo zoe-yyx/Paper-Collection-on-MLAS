@@ -4,6 +4,14 @@
 Welcome to the paper collection repository on **multi-LLM-agent system (MLAS)**! This repository serves as a curated list of significant papers, reviews, and resources related to MLAS. Contributions are highly encouraged! 🚀
 
 ---
+## 🔍 Introduction
+In the era of (multi-modal) large language models, most operational processes can be reformulated and reproductionized using LLM agents. The LLM agents can perceive, control, and get feedbacks from the environment so as to accomplish the given tasks in an autonomous manner. Besides the environment-interaction property, the LLM agents can call various external tools to ease the task completion process. The tools can be regarded as a predefined operational process with private or real-time knowledge that does not exist in the parameters of LLMs. 
+
+As a natural trend of development, the tools for calling are becoming autonomous agents, thus the full intelligent system turns out to be a multi-LLM-agent system (MLAS). This paper discusses the technical and business landscapes of MLAS. Comparing to the previous single-LLM-agent system, a MLAS has the advantages of i) higher potential of task-solving performance, ii) higher flexibility for system changing, iii) proprietary data preserving for each participating entity, and iv) feasibility of monetization for each entity.
+
+This repository maintains a curated collection of research papers related to Multi-LLM-Agent Systems (MLAS).
+
+---
 
 ## 🎯 Featured Paper
 
@@ -30,15 +38,6 @@ Key Contributions:
     - [Category 4](#💡 Applications & Use Cases)
 3. [Contributing](#contributing)
 4. [References](#references)
-
----
-
-## 🔍 Introduction
-In the era of (multi-modal) large language models, most operational processes can be reformulated and reproductionized using LLM agents. The LLM agents can perceive, control, and get feedbacks from the environment so as to accomplish the given tasks in an autonomous manner. Besides the environment-interaction property, the LLM agents can call various external tools to ease the task completion process. The tools can be regarded as a predefined operational process with private or real-time knowledge that does not exist in the parameters of LLMs. 
-
-As a natural trend of development, the tools for calling are becoming autonomous agents, thus the full intelligent system turns out to be a multi-LLM-agent system (MLAS). This paper discusses the technical and business landscapes of MLAS. Comparing to the previous single-LLM-agent system, a MLAS has the advantages of i) higher potential of task-solving performance, ii) higher flexibility for system changing, iii) proprietary data preserving for each participating entity, and iv) feasibility of monetization for each entity.
-
-This repository maintains a curated collection of research papers related to Multi-LLM-Agent Systems (MLAS).
 
 ---
 
@@ -87,18 +86,19 @@ List general references, key textbooks, or online resources that are relevant to
 
 ---
 
-## 📜 License
+## 📜 Citation
 
-This repository is licensed under the [Your License Name]. See the [LICENSE](./LICENSE) file for details.
-
----
-
-### Example Structure for Paper Entry
-
+If you find this useful in your research, please consider citing
 ```
-**[Paper Title](link-to-paper)**  
-*Author(s)* - *Conference/Journal (Year)*  
-Summary: A brief overview of the paper's contributions, methods, and key findings.
+@misc{yang2024multillmagentsystemstechniquesbusiness,
+      title={Multi-LLM-Agent Systems: Techniques and Business Perspectives}, 
+      author={Yingxuan Yang and Qiuying Peng and Jun Wang and Weinan Zhang},
+      year={2024},
+      eprint={2411.14033},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2411.14033}, 
+}
 ```
 
 ---
@@ -106,3 +106,4 @@ Summary: A brief overview of the paper's contributions, methods, and key finding
 ## 🏆 Acknowledgments
 
 Special thanks to all contributors and authors whose work is included in this repository.
+
