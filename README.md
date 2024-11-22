@@ -26,7 +26,7 @@ This repository serves as a curated collection of significant papers and resourc
 
 [arXiv:(https://arxiv.org/abs/2411.14033)]
 
-![image](illustration_of_MAS.png)
+<img src="illustration_of_MAS.png" alt="illustration_of_MAS" width="750">
 
 Key Contributions:
 1.  Provides a systematic overview of MLAS architectures and mechanisms
