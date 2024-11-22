@@ -9,6 +9,7 @@ Welcome to the paper collection repository on **multi-LLM-agent system (MLAS)**!
 
 **Multi-LLM-Agent Systems: Techniques and Business Perspectives**
 *Yingxuan Yang, Qiuying Peng, Jun Wang, Weinan Zhang*
+
 [arXiv:(https://arxiv.org/abs/2411.14033)]
 
 Key Contributions:
@@ -25,6 +26,8 @@ Key Contributions:
 2. [Categories](#categories)
     - [Category 1](#🏗️ System Architecture & Frameworks)
     - [Category 2](#🤝 Agent Collaboration & Communication)
+    - [Category 3](#🔒 Privacy & Security)
+    - [Category 4](#💡 Applications & Use Cases)
 3. [Contributing](#contributing)
 4. [References](#references)
 
