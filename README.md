@@ -16,6 +16,7 @@ This repository maintains a curated collection of research papers related to Mul
 ## 🎯 Featured Paper
 
 **Multi-LLM-Agent Systems: Techniques and Business Perspectives**
+
 *Yingxuan Yang, Qiuying Peng, Jun Wang, Weinan Zhang*
 
 [arXiv:(https://arxiv.org/abs/2411.14033)]
