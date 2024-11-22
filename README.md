@@ -1,5 +1,5 @@
 
-# 📚 Paper Collection on [multi-LLM-agent system (MLAS)]
+# 📚 Paper Collection on multi-LLM-agent system (MLAS)
 
 Welcome to the paper collection repository on **multi-LLM-agent system (MLAS)**! This repository serves as a curated list of significant papers, reviews, and resources related to MLAS. Contributions are highly encouraged! 🚀
 
