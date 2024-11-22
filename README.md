@@ -5,11 +5,16 @@ Welcome to the paper collection repository on **multi-LLM-agent system (MLAS)**!
 
 ---
 ## 🔍 Introduction
-In the era of (multi-modal) large language models, most operational processes can be reformulated and reproductionized using LLM agents. The LLM agents can perceive, control, and get feedbacks from the environment so as to accomplish the given tasks in an autonomous manner. Besides the environment-interaction property, the LLM agents can call various external tools to ease the task completion process. The tools can be regarded as a predefined operational process with private or real-time knowledge that does not exist in the parameters of LLMs. 
 
-As a natural trend of development, the tools for calling are becoming autonomous agents, thus the full intelligent system turns out to be a multi-LLM-agent system (MLAS). This paper discusses the technical and business landscapes of MLAS. Comparing to the previous single-LLM-agent system, a MLAS has the advantages of i) higher potential of task-solving performance, ii) higher flexibility for system changing, iii) proprietary data preserving for each participating entity, and iv) feasibility of monetization for each entity.
+In the era of large language models (LLMs), autonomous LLM agents have transformed how tasks are executed. These agents interact with their environment and external tools, extending their capabilities to complete complex tasks efficiently and effectively.
 
-This repository maintains a curated collection of research papers related to Multi-LLM-Agent Systems (MLAS).
+As the next evolution, Multi-LLM-Agent Systems (MLAS) enable multiple LLM agents to collaborate within a unified ecosystem. By combining their strengths, MLAS offers several key advantages:
+- Enhanced Problem-Solving: Synergistic collaboration among agents leads to improved performance.
+- Flexibility and Scalability: Modular architectures adapt easily to changing requirements.
+- Data Privacy: Participating entities retain control over proprietary data, fostering trust.
+- Monetization Opportunities: Individual agents or systems can monetize their specialized contributions.
+
+This repository serves as a curated collection of significant papers and resources on MLAS, covering its technical foundations, practical implementations, and business potential. Dive in to explore the latest advancements in this exciting field! 🚀
 
 ---
 
