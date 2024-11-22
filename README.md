@@ -45,7 +45,7 @@ Key Contributions:
     - [Category 3](#🔒 Privacy & Security)
     - [Category 4](#💡 Applications & Use Cases)
 3. [Contributing](#contributing)
-4. [References](#references)
+4. [References](#citation)
 
 ---
 
@@ -154,13 +154,7 @@ Please ensure the following:
 
 ---
 
-## 📖 References
-
-List general references, key textbooks, or online resources that are relevant to the topic.
-
----
-
-## 📜 Citation
+## 📖 Citation
 
 If you find this useful in your research, please consider citing
 ```
